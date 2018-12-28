@@ -1,0 +1,25 @@
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\bin\Debug\ChineseeCheckers_v1.exe.config
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\bin\Debug\ChineseeCheckers_v1.exe
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\bin\Debug\ChineseeCheckers_v1.pdb
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.csprojResolveAssemblyReference.cache
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.Form1.resources
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.Properties.Resources.resources
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.csproj.GenerateResource.Cache
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.exe
+c:\users\aykut\documents\visual studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.pdb
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.BaslangicEkrani.resources
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.OyunKurallari.resources
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\bin\Debug\ChineseeCheckers_v1.exe.config
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.exe
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.pdb
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\bin\Debug\ChineseeCheckers_v1.exe
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\bin\Debug\ChineseeCheckers_v1.pdb
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.csprojResolveAssemblyReference.cache
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.BaslangicEkrani.resources
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.Form1.resources
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.OyunKurallari.resources
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.Properties.Resources.resources
+C:\Users\Emrah\Desktop\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.csproj.GenerateResource.Cache
+D:\3.sınıf güz dersler\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\bin\Debug\ChineseeCheckers_v1.exe.config
+D:\3.sınıf güz dersler\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.exe
+D:\3.sınıf güz dersler\ÇİN DAMASI PROJE\ChineseeCheckers_v1\ChineseeCheckers_v1\obj\Debug\ChineseeCheckers_v1.pdb
